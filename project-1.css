@@ -1,0 +1,198 @@
+	
+	/*#first-container{
+	background: #fff;
+	width: 65px;
+    height: 70px;
+    border: solid 5px grey;
+    position: relative;
+  	width:  3.75em;
+  	height: 5.00em;
+  	margin: 0 auto;
+  	display: inline-block;
+	}
+
+	#second-container{
+	background: #fff;
+	width: 65px;
+    height: 70px;
+    border: solid 5px grey;
+    position: relative;
+  	width:  3.75em;
+  	height: 5.00em;
+  	margin: 0 auto;
+	}
+
+	#third-container{
+	background: #fff;
+	width: 65px;
+    height: 70px;
+    border: solid 5px grey;
+    position: relative;
+  	width:  3.75em;
+  	height: 5.00em;
+  	margin: 0 auto;
+	}
+
+	#fourth-container{
+	background: #fff;
+	width: 65px;
+    height: 70px;
+    border: solid 5px grey;
+    position: relative;
+  	width:  3.75em;
+  	height: 5.00em;
+  	margin: 0 auto;
+	}*/
+
+	/*#first-group{
+	width: 20px;
+	height:15px;
+	margin: 0 auto;
+	}
+
+	#second-group{
+	width: 20px;
+	height:15px;
+	margin: 0 auto;
+	}
+
+	#third-group{
+	width: 20px;
+	height:15px;
+	margin: 0 auto;	
+	}
+
+	#fourth-group{
+	width: 20px;
+	height:15px;
+	margin: 0 auto;
+	}
+
+*/
+
+	
+* {
+	box-sizing: border-box;
+}
+
+
+.wel{
+color: blue;
+}
+
+.to{
+color: red;
+}
+
+.the{
+color: green;
+}
+
+.mariow{
+color: yellow;
+}
+
+.matching{
+color: white;
+}
+
+.game{
+color: blue;
+}
+
+body{
+background:url("img/mario-bg-2.jpg")no-repeat;
+}
+
+h1{
+text-align: center;
+font-family:"Lucida Console", Monaco, monospace;
+font-weight: bold;
+}
+
+#playing-field{
+perspective:800px;
+text-align: center;
+width: 450px;
+margin: 0 auto;
+}
+
+.bowser{
+background-image: url("img/bowser.jpg");
+background-size: cover;
+}
+
+.bowser_jr{
+background: url("img/bowser_jr.jpg");
+background-size:cover;
+
+}
+
+.fire-flower{
+background: url("img/fire-flower.jpg");
+background-size:cover;
+
+}
+.helicopter-mushroom{
+background-size: cover;
+background:url("img/helicopter-mushroom.jpg")no-repeat;
+}
+
+.ice-flower{
+background: url("img/ice-flower.jpg");
+background-size:cover;
+}
+.luigi{
+background: url("img/luigi.jpg")no-repeat;
+background-size:cover;
+}
+.mario{
+background-size:cover;
+background:url("img/mario.jpg");
+
+}
+.peach-card{
+background-size: contain;
+background: url("img/peach-card.jpg")no-repeat;
+}
+
+.facedown{
+background-size: contain;
+background:url("img/mario_logo.jpg") !important;
+background: transparent url("img/mario_logo.jpg") no-repeat center center !important;
+transform: rotateY(180deg);
+transition: 1s;
+}
+
+.faceup{
+transform: rotateY(180deg);
+transition: 1s;	
+}
+
+
+
+
+.card{
+/*	background: #fff;*/
+	width: 65px;
+    height: 70px;
+    border: solid 5px grey;
+    float: left;
+    margin: 20px;
+    display: block;
+    transform-style: preserve-3d;
+
+}
+
+.row{
+	margin:0 auto;
+	width: 420px;
+	
+}
+
+
+
+
+
+
+
