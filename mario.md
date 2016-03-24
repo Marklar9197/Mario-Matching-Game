@@ -9,6 +9,6 @@ To create a game that uses Javascript and jquery to implement its functionality.
 
 ## How To Start
 
-Simply go to this site http://marklar9197.github.io  and start playing.
+Simply go to this site http://marklar9197.github.io and start playing.
 
 
